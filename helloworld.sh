@@ -1,3 +1,3 @@
 #!/bin/bash
 # My first script
-echo "Hello World!"
+echo "Hello World! by Nikita"
